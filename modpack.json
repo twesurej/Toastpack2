@@ -1,0 +1,25 @@
+{
+    "forgeVersion":"1.12.2-14.23.5.2854",
+    "mods":{
+        "urls":[
+        	{"url": "https://github.com/MrCrayfish/MrCrayfishDeviceMod/releases/download/v0.2.0pre6-1.12.2/device-api-0.2.0pre6-1.12.2.jar"}
+        ],
+        "curse":[
+            {   
+                "name": "Inventory Tweaks",
+                "projectId":"223094",
+                "fileId": "2482481"
+            },
+            {   
+                "name": "Just Enough Items (JEI)",
+                "projectId":"238222",
+                "fileId": "2847112"
+            },
+            {   
+                "name": "JourneyMap",
+                "projectId":"32274",
+                "fileId": "2916002"
+            }
+        ]    
+    }
+}
