@@ -5,7 +5,7 @@ git:
 
 env:
   global:
-    - GH_REF=github.com/Poeschl/Technic-Pack-Repository-Template.git
+    - GH_REF=github.com/twesurej/Toastpack2.git
 
 branches:
   only:
