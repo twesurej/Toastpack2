@@ -10,15 +10,380 @@
                 "fileId": "2835175"
             },
             {   
-                "name": "Just Enough Items (JEI)",
+                "name": "Just enough items (JEI)",
                 "projectId":"238222",
                 "fileId": "2847112"
             },
             {   
-                "name": "JourneyMap",
+                "name": "Journeymap",
                 "projectId":"32274",
                 "fileId": "2916002"
-            }
+            },
+            {   
+                "name": "Ae2 stuff",
+                "projectId":"225194",
+                "fileId": "2491032"
+            },
+            {   
+                "name": "Animus",
+                "projectId":"229664",
+                "fileId": "2888473"
+            },
+            {   
+                "name": "Anvil infinity craft",
+                "projectId":"285509",
+                "fileId": "2944457"
+            },
+            {   
+                "name": "Anvil patch",
+                "projectId":"320093",
+                "fileId": "2715612"
+            },
+           	 {   
+                "name": "Apotheosis",
+                "projectId":"313970",
+                "fileId": "2906487"
+            },
+             {   
+                "name": "Applied energistics 2",
+                "projectId":"223794",
+                "fileId": "2747063"
+            },
+             {   
+                "name": "Astral sorcery",
+                "projectId":"241721",
+                "fileId": "2971187"
+            },
+             {   
+                "name": "Atomicstrykers infernal mobs",
+                "projectId":"227875",
+                "fileId": "2988726"
+            },
+             {   
+                "name": "Autoreglib",
+                "projectId":"250363",
+                "fileId": "2746011"
+            },
+             {   
+                "name": "Avaritia",
+                "projectId":"261348",
+                "fileId": "2660801"
+            },
+             {   
+                "name": "Baubles",
+                "projectId":"227083",
+                "fileId": "2518667"
+            },
+             {   
+                "name": "Bdlib",
+                "projectId":"70496",
+                "fileId": "2518031"
+            },
+             {   
+                "name": "Betterfps",
+                "projectId":"229876",
+                "fileId": "2483393"
+            },
+             {   
+                "name": "Bewitchment",
+                "projectId":"285439",
+                "fileId": "2988774"
+            },
+             {   
+                "name": "Beyond the veil",
+                "projectId":"373509",
+                "fileId": "2964141"
+            },
+             {   
+                "name": "Biomes o'plenty",
+                "projectId":"220318",
+                "fileId": "2715506"
+            },
+             {   
+                "name": "Block drops jei addon",
+                "projectId":"244181",
+                "fileId": "2509046"
+            },
+             {   
+                "name": "Blood magic",
+                "projectId":"224791",
+                "fileId": "2822288"
+            },
+             {   
+                "name": "Bookshelf",
+                "projectId":"228525",
+                "fileId": "2836960"
+            },
+             {   
+                "name": "Bountiful baubles",
+                "projectId":"313536",
+                "fileId": "2952895"
+            },
+             {   
+                "name": "Brandons core",
+                "projectId":"231382",
+                "fileId": "2867147"
+            },
+             {   
+                "name": "Clumps",
+                "projectId":"256717",
+                "fileId": "2666198"
+            },
+             {   
+                "name": "Codechicken lib",
+                "projectId":"242818",
+                "fileId": "2779848"
+            },
+             {   
+                "name": "Constructs armory",
+                "projectId":"287683",
+                "fileId": "2962662"
+            },
+             {   
+                "name": "Compact machines",
+                "projectId":"224218",
+                "fileId": "2707509"
+            },
+             {   
+                "name": "Crafttweaker",
+                "projectId":"239197",
+                "fileId": "2958236"
+            },
+             {   
+                "name": "Draconic additions",
+                "projectId":"314515",
+                "fileId": "2976342"
+            },
+             {   
+                "name": "Draconic evolution",
+                "projectId":"223565",
+                "fileId": "2867186"
+            },
+             {   
+                "name": "Enchanting plus",
+                "projectId":"59413",
+                "fileId": "2664227"
+            },
+             {   
+                "name": "Extra utilities",
+                "projectId":"225561",
+                "fileId": "2678374"
+            },
+             {   
+                "name": "Extra cells",
+                "projectId":"229218",
+                "fileId": "2855967"
+            },
+             {   
+                "name": "Extra skills",
+                "projectId":"292163",
+                "fileId": "2552823"
+            },
+             {   
+                "name": "Extreme reactors",
+                "projectId":"250277",
+                "fileId": "2722271"
+            },
+             {   
+                "name": "Familiar fauna",
+                "projectId":"289347",
+                "fileId": "2644656"
+            },
+             {   
+                "name": "Forge mutilpart cbe",
+                "projectId":"258426",
+                "fileId": "2755790"
+            },
+             {   
+                "name": "Guide API",
+                "projectId":"228832",
+                "fileId": "2645992"
+            },
+             {   
+                "name": "Heroes expansion",
+                "projectId":"267462",
+                "fileId": "2762537"
+            },
+             {   
+                "name": "Hwyla",
+                "projectId":"253449",
+                "fileId": "2568751"
+            },
+             {   
+                "name": "Ice and fire",
+                "projectId":"264231",
+                "fileId": "2939529"
+            },
+             {   
+                "name": "Industrial foregoing",
+                "projectId":"266515",
+                "fileId": "2745321"
+            },
+             {   
+                "name": "Inventory pets",
+                "projectId":"229380",
+                "fileId": "2966477"
+            },
+             {   
+                "name": "Ivtool kit",
+                "projectId":"224535",
+                "fileId": "2443253"
+            },
+             {   
+                "name": "Jei hider",
+                "projectId":"247070",
+                "fileId": "2633243"
+            },
+             {   
+                "name": "jei integration",
+                "projectId":"265917",
+                "fileId": "2951731"
+            },
+            {   
+                "name": "Jei ore integration",
+                "projectId":"296769",
+                "fileId": "2576706"
+            },
+             {   
+                "name": "Just enough resources",
+                "projectId":"240630",
+                "fileId": "2728585"
+            },
+            {   
+                "name": "LLibrary",
+                "projectId":"243298",
+                "fileId": "2704186"
+            },
+            {   
+                "name": "Lucraft",
+                "projectId":"230651",
+                "fileId": "2945522"
+            },
+            {   
+                "name": "Mantle",
+                "projectId":"74924",
+                "fileId": "2713386"
+            },
+            {   
+                "name": "Mcjtylib",
+                "projectId":"233105",
+                "fileId": "2745846"
+            },
+            {   
+                "name": "Open glider",
+                "projectId":"252354",
+                "fileId": "2464501"
+            },
+            {   
+                "name": "Open computers",
+                "projectId":"223008",
+                "fileId": "2828357"
+            },
+            {   
+                "name": "Overloaded armor bar",
+                "projectId":"314002",
+                "fileId": "2719400"
+            },
+            {   
+                "name": "Patchouli",
+                "projectId":"306770",
+                "fileId": "2731963"
+            },
+            {   
+                "name": "Placebo",
+                "projectId":"283644",
+                "fileId": "2694382"
+            },
+            {   
+                "name": "Project Intelligence",
+                "projectId":"306028",
+                "fileId": "2833640"
+            },
+            {   
+                "name": "Quark",
+                "projectId":"243121",
+                "fileId": "2924091"
+            },
+            {   
+                "name": "Recurrent Complex",
+                "projectId":"223150",
+                "fileId": "2689602"
+            },
+            {   
+                "name": "Redstone Flux",
+                "projectId":"270789",
+                "fileId": "2920436"
+            },
+            {   
+                "name": "Reskillable",
+                "projectId":"286382",
+                "fileId": "2815686"
+            },
+            {   
+                "name": "RFTools",
+                "projectId":"224641",
+                "fileId": "2861573"
+            },
+            {   
+                "name": "RFTools Dimensions",
+                "projectId":"240950",
+                "fileId": "2707390"
+            },
+            {   
+                "name": "Shadowfacts' Forgelin",
+                "projectId":"248453",
+                "fileId": "2785465"
+            },
+             {   
+                "name": "Solar flux reborn",
+                "projectId":"246974",
+                "fileId": "2887575"
+            },
+            {   
+                "name": "Tesla core lib",
+                "projectId":"254602",
+                "fileId": "2891841"
+            },
+              {   
+                "name": "Tinkers jei",
+                "projectId":"291786",
+                "fileId": "2701203"
+            },
+              {   
+                "name": "Tinkers construct",
+                "projectId":"74072",
+                "fileId": "2902483"
+            },
+              {   
+                "name": "vanilla fix",
+                "projectId":"292785",
+                "fileId": "2915154"
+            },
+              {   
+                "name": "Waystone",
+                "projectId":"245755",
+                "fileId": "2859589"
+            },
+              {   
+                "name": "Wireless redstone CBE",
+                "projectId":"260824",
+                "fileId": "2755798"
+            },
+              {   
+                "name": "YUNG's Better Caves",
+                "projectId":"340583",
+                "fileId": "2957970"
+            },
+              {   
+                "name": "Zerocore",
+                "projectId":"247921",
+                "fileId": "V"
+            },
+              {   
+                "name": "",
+                "projectId":"",
+                "fileId": ""
+         }
         ]    
     }
 }

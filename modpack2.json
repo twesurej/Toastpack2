@@ -1,0 +1,24 @@
+{
+    "forgeVersion":"1.12.2-14.23.5.2854",
+    "mods":{
+        "urls":[
+        	 ],
+        "curse":[
+            {   
+                "name": "Mekanism",
+                "projectId":"268560",
+                "fileId": "2835175"
+            },
+            {   
+                "name": "Just Enough Items (JEI)",
+                "projectId":"238222",
+                "fileId": "2847112"
+            },
+            {   
+                "name": "JourneyMap",
+                "projectId":"32274",
+                "fileId": "2916002"
+            }
+        ]    
+    }
+}
